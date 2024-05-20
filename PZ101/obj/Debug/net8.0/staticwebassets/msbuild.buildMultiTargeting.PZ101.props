@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PZ101.props" />
+</Project>
